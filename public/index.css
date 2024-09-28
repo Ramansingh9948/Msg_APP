@@ -1,0 +1,23 @@
+*{
+    margin: 5px;
+    padding: 2px;
+}
+
+.container {
+    background: rgb(194, 187, 237);
+    padding: 10px;
+    display: inline-block;
+    border-radius: 20px;
+}
+.msg {
+    color: rgb(255, 255, 255);
+    background-color: blue;
+    margin: 2px;
+    border-radius: 5px;
+}
+.info {
+    color: rgb(3, 0, 0);
+}
+button {
+    border-radius: 5px;
+}
